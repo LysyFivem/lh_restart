@@ -1,4 +1,4 @@
 # lh_restart
 Powiadomienia o Restarcie Serwera FiveM
-- **[Preview](https://cdn.discordapp.com/attachments/1113366441043972116/1246009815281434694/image.png?ex=665ad491&is=66598311&hm=4147931c81bbf0183917f6c0bd442a5453c9d56eb12f16813d5e86abd3775a52&)**
+- **[Preview](https://cdn.discordapp.com/attachments/1113366441043972116/1252712035792195685/image.png?ex=6673367f&is=6671e4ff&hm=a26f55afa58581a0025120ea5db57d10c539691481552cf296fb3f246140183f&)**
 - **[Server Discord](https://discord.gg/MXvWHXBczT)**
